@@ -54,6 +54,8 @@ Software development.
 **Spring Data**
 **Junit**
 **MySql**
+**JavaScript**
+**Java**
 
 **GitHub**
 https://github.com/UladzislauBaranski/online_store
